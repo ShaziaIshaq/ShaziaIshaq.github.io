@@ -1,14 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - ShaziaIshaq
 repo_description_lines_max: 2
-
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ShaziaIshaq/credit_risk
+  - ShaziaIshaq/Weather_data_analysis
