@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc Finance · University of Freiburg · Credit Risk & Spatial Finance
+subtitle: MSc Finance · University of Freiburg · Credit Risk & Reporting
 
 profile:
   align: right
@@ -15,7 +15,7 @@ social: true
 ---
 
 I am an MSc Finance student at the University of Freiburg, Germany, 
-specialising in credit risk and spatial finance. I am currently 
+specialising in credit risk reporting and trading. I am currently 
 completing an internship in credit risk, fraud, and payments, gaining 
 hands-on experience with real banking risk workflows.
 
@@ -27,5 +27,4 @@ and labour markets, with a focus on developing economies.
 I am preparing for a career in credit risk and trading at German banks 
 and energy companies, with skills in Python, R, and econometric modelling.
 
-**Research interests:** Credit Risk · Future of Work · AI and Labour 
-Markets · Education Economics · Human Capital Development
+**Research interests:** Credit Risk · Reporting. Trading. AI and Future of Work ·
