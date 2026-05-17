@@ -1,6 +1,6 @@
 cv:
   name: Shazia Ishaq
-  label: MSc Finance · Credit Risk Reporting
+  label: MSc Finance · Credit Risk Researcher
   email: shazia.ishaq@email.uni-freiburg.de
   location: Freiburg, Germany
   image: ""
@@ -79,7 +79,7 @@ cv:
         summary: "Fluent"
 
       - name: German
-        summary: "Beginner"
+        summary: "Intermediary"
 
     Interests:
       - name: Research
