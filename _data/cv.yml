@@ -3,98 +3,44 @@ cv:
   label: MSc Finance · Credit Risk Researcher
   email: shazia.ishaq@email.uni-freiburg.de
   location: Freiburg, Germany
-  image: ""
-  summary: MSc Finance candidate at the University of Freiburg specialising in credit risk and spatial finance. PhD candidate at Quaid-i-Azam University researching AI, future of work, and graduate employability. Currently completing an internship in credit risk, fraud, and payments.
-
-  social_networks:
-    - network: LinkedIn
-      username: shazia-ishaq
-    - network: GitHub
-      username: ShaziaIshaq
+  summary: MSc Finance candidate at University of Freiburg specialising in credit risk and spatial finance.
 
   sections:
     Education:
       - institution: University of Freiburg
         location: Freiburg, Germany
-        url: https://uni-freiburg.de
-        area: Finance (Credit Risk & Spatial Finance)
+        area: Finance
         studyType: MSc
         start_date: 2023-10-01
         end_date: ""
-        highlights:
-          - Specialisation in credit risk modelling and spatial finance
-          - Internship in credit risk, fraud, and payments
 
       - institution: Quaid-i-Azam University
         location: Islamabad, Pakistan
-        url: https://qau.edu.pk
         area: Economics
         studyType: PhD
         start_date: 2022-01-01
         end_date: ""
-        highlights:
-          - Research focus on AI, future of work, and graduate employability
-          - Published in Empirical Economic Review (2025)
 
     Experience:
-      - company: Internship
-        position: Credit Risk, Fraud & Payments Intern
+      - company: Credit Risk Internship
+        position: Credit Risk and Fraud Intern
         location: Germany
         start_date: 2025-11-15
         end_date: ""
-        summary: Hands-on experience with credit risk modelling, fraud detection, and payment systems in a banking environment.
-        highlights:
-          - Credit risk analysis and reporting
-          - Fraud detection and prevention
-          - Payment systems and processes
-
-    Publications:
-      - title: Perceived Work Readiness among Graduates: A Case Study from Pakistan
-        authors:
-          - Shazia Ishaq
-          - Zahid Asghar
-        publisher: Empirical Economic Review
-        releaseDate: 2025
-        url: https://doi.org/10.29145/eer.81.01
-        summary: Study examining graduates perceptions of career readiness, focusing on gaps in digital literacy, technical skills, and labour market alignment across Pakistani universities.
 
     Skills:
       - name: Programming
-        level: Intermediate
         keywords: "Python, R, SQL"
 
       - name: Credit Risk
-        level: Advanced
-        keywords: "PD Modelling, LGD, EAD, Basel III, IFRS 9, Scorecard Development"
-
-      - name: Statistics
-        level: Advanced
-        keywords: "Econometrics, Regression Analysis, Factor Analysis, Time Series"
+        keywords: "PD Modelling, LGD, EAD, Basel III, IFRS 9"
 
     Languages:
       - name: Urdu
-        summary: "Native speaker"
+        summary: Native
 
       - name: English
-        summary: "Fluent"
+        summary: Fluent
 
       - name: German
-        summary: "Intermediary"
-
-    Interests:
-      - name: Research
-        keywords: "Credit Risk, Future of Work, AI and Labour Markets, Education Economics"
-
-      - name: Sports
-        keywords: "Badminton (Professional level)"
-
-    Projects:
-      - name: Credit Risk Modelling
-        summary: Building PD, LGD and EAD models using Python and real loan datasets, following Basel III and IFRS 9 regulatory frameworks.
-        start_date: 2025-01-01
-        end_date: ""
-
-      - name: Fraud Detection
-        summary: Machine learning based fraud detection using Python, handling class imbalance with SMOTE and Isolation Forest.
-        start_date: 2025-01-01
-        end_date: ""
+        summary: Beginner
